@@ -18,6 +18,6 @@ This project is set up with Nuxt and Tailwind CSS for your convenience. Feel fre
 You are welcome to either use this project as a starting point or set up a new project from scratch.
 
 If you use this project as a starting point, please clone and create your own **private** repository.
-When you're done, invite [ @MikeBellika ](https://github.com/MikeBellika) and [ @mikkellindblom ](https://github.com/mikkellindblom)
+When you're done, invite [MikeBellika](https://github.com/MikeBellika) and [mikkellindblom](https://github.com/mikkellindblom)
 
 Please do not spend more than a couple of hours on this. If you have any questions, feel free to reach out.
