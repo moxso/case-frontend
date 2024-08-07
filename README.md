@@ -14,7 +14,7 @@ In this test, you have to implement the [Hacker News API](https://github.com/Hac
 
 ## Project Setup and Guidelines
 
-This project is set up with Nuxt and Tailwind CSS for your convenience. Feel free to personalize the project, add packages, configure it to your preference, and apply your own unique design aesthetics. You are welcome to either use this project as a starting point or set up a new project from scratch.
+This project is set up with Nuxt and Tailwind CSS for your convenience. Feel free to personalize the project, add packages, configure it to your preference, and apply your own unique design aesthetics. You are welcome to either use this project as a starting point or set up a new project from scratch. You may use any framework or technology with which you are comfortable.
 
 If you use this project as a starting point, please clone and create your own **private** repository. When you're done, invite [MikeBellika](https://github.com/MikeBellika) and [mikkellindblom](https://github.com/mikkellindblom).
 
